@@ -1,3 +1,3 @@
-# Connect4field-game-and-tic-tac-toe
-Connect4field is a two player game using multiple threads using the MVC design pattern and tic-tac-toe is a two player game using 
-the MVC design pattern wherein each player can sit on different computers and also can be played as human vs computer.
+# JAVA-Projects
+This project is a two player game(tic-tac-toe) using multiple threads using the MVC design pattern as well as a 4 player game
+(connect 4 field) using multiple threads using the MVC design pattern playing in two different computers as also human vs computer.
